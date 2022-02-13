@@ -61,3 +61,6 @@
     *  9V pil + Pil başlığı
 
     *  Robotumuz için tercihlerinize bağlı olarak uygun bir şase
+    
+ ### Proje Devre Çizimi
+ <img align="center" width="1280" height="720" src="circuit_drawing/robot_project_circuit_drawing.jpg">

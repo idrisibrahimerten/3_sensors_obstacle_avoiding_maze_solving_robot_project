@@ -28,6 +28,8 @@
 
     * A suitable chassis for our robot depending on your preferences
     
+ ### Project Circuit Drawing
+ <img align="center" width="400" height="200" src="arduino_ethernetshield.jpg">
 #### To Turkish
 
 # Arduino Geliştirme Kartı İle 3 Mesafe Sensörü Kullanarak Engelden Kaçan Labirent Çözen Robot Projesi

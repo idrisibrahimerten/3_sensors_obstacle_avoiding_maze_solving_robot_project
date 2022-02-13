@@ -30,6 +30,7 @@
     
  ### Project Circuit Drawing
  <img align="center" width="1280" height="720" src="circuit_drawing/robot_project_circuit_drawing.jpg">
+ 
 #### To Turkish
 
 # Arduino Geliştirme Kartı İle 3 Mesafe Sensörü Kullanarak Engelden Kaçan Labirent Çözen Robot Projesi
